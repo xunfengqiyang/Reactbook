@@ -12,6 +12,8 @@
 
 ## Dependencies
 
+* [antd](antd.md)
+* [React-bootstrap](react-bootstrap.md)
 * [React-redux](react-redux.md)
 * [React Router](api.md)
 
