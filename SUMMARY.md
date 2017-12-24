@@ -10,7 +10,8 @@
 
 * [react-component](react-component.md)
 
-## Router
+## Dependencies
 
+* [React-redux](react-redux.md)
 * [React Router](api.md)
 
