@@ -4,6 +4,7 @@
 
 * [Introduction](README.md)
 * [Hellow World](hellow-world.md)
+* [CLI](cli.md)
 
 ## reference
 
