@@ -4,7 +4,7 @@
 
 * [Introduction](README.md)
 * [Hellow World](hellow-world.md)
-* [CLI](cli.md)
+* [React+ES6+Webpack](cli.md)
 
 ## reference
 

@@ -1,6 +1,4 @@
-# React脚手架的使用--5步生成React+ES6+Webpack项目
-
-
+# 5步生成React+ES6+Webpack项目
 
 ## 一、安装最新的node.js {#一安装最新的nodejs}
 
@@ -32,7 +30,6 @@ npm install
 -g
  generator
 -reactpackage
-
 ```
 
 ## 四、创建React项目 {#四创建react项目}
@@ -40,7 +37,6 @@ npm install
 ```
 在合适的地方新建一个文件夹，在文件夹下运行：
 yo reactpackage
-
 ```
 
 ```
@@ -81,7 +77,6 @@ yo reactpackage
 └── webpack
 .config
 .js
-
 ```
 
 ## 五、调试打包React项目 {#五调试打包react项目}
@@ -93,7 +88,6 @@ npm run dev
 
 npm run build 
 //开发完成之后打包文件（js、css分开打包）
-
 ```
 
 ## 六、测试预览项目 {#六测试预览项目}
