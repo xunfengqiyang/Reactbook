@@ -12,5 +12,5 @@
 ## Router
 
 * [Api](router/api.md)
-* [Api](api.md)
+* [React Router](api.md)
 
